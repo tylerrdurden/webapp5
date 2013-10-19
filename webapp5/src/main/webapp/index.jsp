@@ -8,6 +8,5 @@
 </head>
 <body>
 benvenuti tutti !!
-second timer on github
 </body>
 </html>
